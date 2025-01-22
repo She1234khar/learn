@@ -1,4 +1,5 @@
 console.log("hello")
 console.log("word")
-console.log("fgtr")
-console.log("gfhty")
+console.log("hr")
+console.log("gt")
+console.log("shkhr")
